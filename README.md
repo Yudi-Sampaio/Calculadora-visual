@@ -13,6 +13,12 @@ Calculadora visual simples, desenvolvida em python utilizando a biblioteca Tkint
 2. De preferencia estar com o python ou pycharm atualizado
 3. usa-se a biblioteca tkinter mas ela já é instalada automaticamente com o python então nao precisa do comando para instala-la
 
+## Gerar executavel
+1. baixe o codigo da calculadora
+2. vá no terminal do pycharm
+3. digite pip install pyinstaller
+4. digite: pyinstaller --onefile 
+
 ## Instrução de uso
 
 Caso tenha o python instalado no cmd do computador basta apenas baixar e abrir o (.exe) da calculadora visual,calculadora tem a opção de atualizar,deletar e ver historico, mesmo abrindo e fechando o executal da interface as informações do historico continuam salvas,caso queira as limpalas use a opção deletar historico, bote qual o numero do historico que deseja deletar e digite na janela que irá aparecer após apertar deletar historico.
