@@ -16,8 +16,9 @@ Calculadora visual simples, desenvolvida em python utilizando a biblioteca Tkint
 ## Gerar executavel
 1. baixe o codigo da calculadora
 2. vá no terminal do pycharm
-3. digite pip install pyinstaller
-4. digite: pyinstaller --onefile 
+3. digite: pip install pyinstaller espere instalar
+4. digite: pyinstaller --onefile CalculadoraVisualSimples.py
+5. espere o fim da conversão e abra o programa na sua pasta de projetos
 
 ## Instrução de uso
 
